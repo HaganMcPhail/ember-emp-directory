@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'hm-ember-employee-directory',
+    modulePrefix: 'ember-emp-directory',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
