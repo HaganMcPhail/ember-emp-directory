@@ -1,7 +1,18 @@
-# Hm-ember-employee-directory
+# ember-emp-directory
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
+
+## Project Requirements
+
+* We would like an internal employee directory so all of our employees can search our database of 30,000 employees
+* We want any HR representatives to be able to add/edit/delete employees
+* A typical directory entry has the following information:
+ * Name
+ * Job Title
+ * Location
+ * Email
+ * Phone Number(s)
 
 ## Prerequisites
 
@@ -50,4 +61,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
